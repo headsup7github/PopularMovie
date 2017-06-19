@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="API_KEY">f42c6d47004be444ed6b421491c794bc</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="trailer_label">Trailer</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="reviewer_label">Reviewer: </string>
+    <string name="noTrailerAvailable">No trailer available</string>
+    <string name="noReviewAvailable">No review available</string>
+    <string name="favoriteButtonText">Mark as favorite</string>
+    <string name="unfavoriteButtonText">It\'s my favorite</string>
+    <string name="FavoriteMenuName">Favorite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
